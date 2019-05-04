@@ -1,1 +1,1 @@
-"# colorclock" 
+COLOR-CLOCK
