@@ -1,0 +1,30 @@
+body {
+	background: #f4f4f4;
+}
+
+#container {
+	margin: 50px auto;
+	padding: 20px;
+	width: 400px;
+	height: 400px;
+}
+
+#time h1 {
+	position: relative;
+	text-align: center;
+	font-family: 'Lato';
+	font-size: 80px;
+}
+
+#time h2#clock {
+	position: relative;
+	text-align: center;
+	font-family: 'Lato';
+	font-size: 100px;
+	margin-bottom: -50px;
+}
+
+#color h3 {
+	text-align: center;
+	font-family: 'Lato';
+}
